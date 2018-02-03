@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: bacon67-hasura
+  data: null
+  kubeContext: bacon67
+  name: bacon67
